@@ -1,0 +1,22 @@
+Tailwindcss Notes
+
+w-full - Full width of screen
+flex - ?
+justify-between - equal space between 
+items-center - center of the Y axis
+bg-white - background color
+sm:px-8 - sm = min of 640 pixels
+px-4 py-4 - py is Y-axis and px is X-axis
+border-b - adding border to bottom
+border-b-[#e6ebf4] - adding color to bottom
+
+object-contain - contain object in specific size
+h-48 w-96 - height width
+
+font-inter 
+font-medium 
+bg-[#6469ff] - background color
+text-white - sets text white
+rounded-md - how round the corners
+
+min-h-[calc(100vh-73px)]
